@@ -1,0 +1,20 @@
+body {
+	width: 1024px;
+	font-family: 'メイリオ',
+	'Hiragino Kaku Gothic Pro',
+	sans-serif;
+	background-color: #ffffff;
+	margin: 0;
+}
+.content ul {
+	list-style-image: none;
+}
+.content li {
+	display: inline-block;
+	font-size: 12px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.content li img {
+	width: 360px;
+}
